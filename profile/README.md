@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-  <img src="../fairelabs.png" style="width:500px;">     
+  <img src="fairelabs.png" style="width:500px;">     
   </br>
   Integrated lab solutions for an open science lab  
   </p>
