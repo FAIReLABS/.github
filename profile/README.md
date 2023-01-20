@@ -1,7 +1,7 @@
 # FAIReLABS
 
 <p align="center">
-  ![](../webpage/fairelabs.png){width=40%}      
+  ![](../../webpage/fairelabs.png){width=40%}      
   </br>
   Integrated lab solutions for an open science lab  
   </p>
